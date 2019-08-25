@@ -1,2 +1,1 @@
-# M1-andalas
-Circuit Diagram Matrix 1,4 M1 andalas
+https://github.com/saputra2/M1-andalas.git
